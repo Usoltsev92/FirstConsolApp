@@ -1,4 +1,4 @@
-//Непонятное что то
+//
 //  func.swift
 //  FirstConsolApp
 //
