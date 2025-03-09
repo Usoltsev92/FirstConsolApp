@@ -4,10 +4,6 @@
 //
 //  Created by Александр Усольцев on 09.03.2025.
 //
-
-import Foundation
-
-
 import Foundation
 
 // Выводим текст о вводе значения
